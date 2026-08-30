@@ -1,0 +1,226 @@
+# Operation Architeuthis — Full Research Dossier
+
+**Subject:** the giant squid, *Architeuthis dux* Steenstrup, 1857
+**Nature of document:** literature review and evidence audit. No original biological theory is proposed.
+**Evidence categories used throughout** (see `README.md` and `evidence-ledger.csv`):
+**A** = direct observation of living animals · **B** = physical specimen evidence · **C** = indirect evidence · **D** = informed inference · **E** = speculation/anecdote.
+Bracketed codes such as `[LIV-01]` point to rows of `evidence-ledger.csv`. Citation identifiers were independently checked; where a claim rests on press-only or unverifiable sources, the text says so. Conventions: ML = mantle length; TL = total length.
+
+---
+
+## 1. What has been directly observed in living giant squid?
+
+Direct observation of living *Architeuthis* is astonishingly thin: it consists of a handful of deep-water imaging events (2004, 2012, 2019), a series of coastal encounters with mostly moribund animals (chiefly in the Sea of Japan), a few fishery captures of animals alive at the net, and live-caught paralarvae that died within days. Everything else known about the species comes from dead bodies and indirect traces.
+
+**Deep-habitat imaging (evidence category A).** On 30 September 2004, a baited remote camera rig photographed an *Architeuthis* attacking a jig at 900 m depth off the Ogasawara Islands, taking >550 still images over about four hours while the animal was snagged; when it tore free it left a 5.5-m severed tentacle on the line, physically confirming the identification and implying a total length above 8 m (Kubodera & Mori 2005, *Proc. R. Soc. B* 272:2583–2586, doi:10.1098/rspb.2005.3158) `[LIV-01, LIV-02]`. In June–July 2012, on a joint NHK/Discovery expedition off the same islands, two systems obtained the first video at depth: Edith Widder's unobtrusive "Medusa" camera platform with an "e-jelly" lure mimicking the bioluminescent alarm display of an *Atolla* jellyfish (five encounters, platform hung around 700 m; reported to have obtained footage days before the crewed dive), and Tsunemi Kubodera's Triton submersible, which on a dive widely dated 10 July 2012 filmed a ~3-m animal (missing both feeding tentacles) from about 630 m down to about 900 m while it fed on a bait squid `[LIV-06, LIV-07, LIV-10]`. Neither 2012 dataset was ever published in a stand-alone peer-reviewed paper; the depths, dates and priority ordering rest on expedition accounts and press coverage and are flagged accordingly in the ledger. On 19 June 2019 the Medusa system recorded a juvenile giant squid (estimated ML ~1.7 m) at 759 m in the northern Gulf of Mexico — the first live giant squid observed in US waters — during the NOAA-funded "Journey into Midnight" expedition; this one was formally published (Robinson et al. 2021, *Deep-Sea Research I* 172:103538, doi:10.1016/j.dsr.2021.103538) `[LIV-11, LIV-12]`.
+
+**What the imaging actually established.** Live giant squid at depth are iridescent silver/gold under artificial light — nothing like the red-and-white of dead specimens (press accounts of the 2012 dive quoting Kubodera) `[LIV-09]`. They swim actively, maneuver against current while holding food, strike bait with the two elongate feeding tentacles (the 2004 sequence), and stalk and track a moving bioluminescent lure before attacking it (2012 and 2019 Medusa records; Robinson et al. 2021 describe ~6 minutes of tracking before the strike) `[LIV-03, LIV-13, DEP-06]`. Kubodera & Mori concluded the species is "a much more active predator than previously suspected" — a direct challenge to the older sluggish-drifter model, though the generalization comes from bait-elicited encounters `[LIV-04]`.
+
+**Coastal and surface encounters.** An unprecedented 57 giant squid were recorded in Japanese coastal waters of the Sea of Japan between January 2014 and March 2015, 28 of them alive at discovery — the largest documented cluster of live-encountered *Architeuthis*; essentially all were moribund or died (Kubodera et al. 2018, *Marine Biodiversity* 48:1391–1400, doi:10.1007/s12526-016-0618-7) `[LIV-16]`. On 24 December 2015 a live ~3.7-m animal spent hours in a Toyama Bay marina and was filmed at close range underwater by diver Akinobu Kimura `[LIV-15]`. On 7 October 2016 an immature 105-kg female was photographed alive at Bares, Galicia, before stranding and dying — published as the first live stranding documented outside Japanese waters (Guerra, González & Pierce 2018, *Ecology* 99:755–757, doi:10.1002/ecy.2073) `[LIV-18]`. Further live coastal records include Obama City, Fukui (April 2022) and a diver encounter off Toyooka, Hyōgo (January 2023, an animal described by the divers as weak, with peeling skin) `[LIV-22, LIV-23]`. Two live subadult females were taken by fisheries off northern Spain in December 1999 and January 2001 (González et al. 2002, *J. Mar. Biol. Assoc. UK* 82) `[LIV-19]`.
+
+**Early life.** Steve O'Shea's New Zealand expeditions (2000–2001) captured live paralarvae in plankton tows; all died before or shortly after reaching shore — the only live-holding attempt on record `[LIV-20, REP-16]`. The smallest known specimens (five paralarvae, 6.7–8.8 mm ML, New Zealand) were formally described two decades later (O'Shea et al. 2022, *Marine Biodiversity* 52:47, doi:10.1007/s12526-022-01287-z) `[LIV-21]`.
+
+**Boundaries of the direct record.** Every deep-water observation to date was mediated by artificial attractants (bait, jigs, or an optical lure); unprovoked natural hunting at depth has never been documented `[LIV-14]`. A December 2025 fishing-boat video circulating on social media appears to show a giant squid feeding on a diamondback squid at the surface; it is scientifically unvetted and treated here as unconfirmed `[LIV-24]`. No living giant squid filmed at depth has ever been directly measured — all sizes of live animals are estimates `[LIV-28]` — and no giant squid has survived in captivity; there has never been one in an aquarium `[LIV-29, REP-31]`.
+
+---
+
+## 2. What is known primarily from captured, stranded, or preserved specimens?
+
+Almost everything. The species was founded on dead material: Japetus Steenstrup published the name *Architeuthus dux* in 1857, anchored (per the Natural History Museum of Denmark's records) to a specimen collected in the western Atlantic in November 1855 by Captain Vilhelm Hygom — material whose type status the museum itself flags as "in doubt" — while the famous 1853 Raabjerg (Denmark) stranding, of which only the beak was salvaged, became the basis of the synonym *A. monachus* (Salvador & Tomotani 2014, *Hist. Ciênc. Saúde-Manguinhos* 21(3)) `[SPE-01–SPE-03]`. The oldest generally accepted stranding record is a carcass at Þingeyrarsandur ("Thingore Sand"), Iceland, in 1639; no material survives `[SPE-04]`.
+
+The 1870s Newfoundland stranding series — including the Logy Bay specimen that Rev. Moses Harvey photographed draped over his sponge bath in 1873 (the first photographs of a giant squid) and the severed Conception Bay tentacle — supplied A. E. Verrill's foundational monographs (Verrill 1879–1881, *Trans. Connecticut Acad.* 5:177–257) `[SPE-05–SPE-08, MYT-11, MYT-13]`. Verrill's 1874 *American Naturalist* article contemporaneously documents that the arm "cut off from the individual that attacked the boat" was preserved at St. John's — so the famous Piccot dory story has a genuine specimen core, even though the narrative details descend from Harvey's embellished popularizations `[MYT-11, MYT-12]`.
+
+Global compilations of the specimen record disagree in detail but agree in order of magnitude — hundreds, not thousands: Guerra et al. (2011, *Biological Conservation* 144:1989–1998) counted 677 specimens recorded since the 16th century, concentrated around New Zealand/Tasmania (183), northern Spain, Newfoundland, and the south-east Atlantic `[SPE-18]`; earlier counts imply ~339 records circa 2004 (Guerra & González 2004, JMBA 84: 115 NE Atlantic specimens = 33.9% of world reports) `[TAX-16]`; Sweeney & Roper's Smithsonian list (2001) covers records through 1999; and a 2026 review claims 836 through late 2025, but appears in a low-rigor venue and is not relied on here `[SPE-19, TAX-35]`. Notable museum holdings include "Archie", an 8.62-m female trawled alive at ~220 m off the Falklands on 15 March 2004 and preserved whole at the Natural History Museum, London (Ablett 2012, *NatSCA News* 23:16–20) `[SPE-24]`; the Smithsonian's two Spanish-caught animals (the female reported 11 m fresh but 7.6 m after preservation — a caution about preservation shrinkage) `[SPE-15, SPE-26]`; and the CEPESMA collection in Luarca, Asturias `[SPE-27]`.
+
+Specimen studies underpin all anatomy: the reproductive system (Hoving et al. 2004, *J. Zool.* 264:153–169), gut contents (Bolstad & O'Shea 2004; Lordan et al. 1998; Regueira et al. 2014), beaks and statoliths for ageing, the ~27-cm eye (Nilsson et al. 2012, *Curr. Biol.* 22:683–688), and genetics (43 mitogenomes from strandings, bycatch and whale-stomach material: Winkelmann et al. 2013; a draft nuclear genome: da Fonseca et al. 2020, *GigaScience* 9:giz152) `[REP-01, DIE-01, SPE-28, TAX-10]`.
+
+---
+
+## 3. What are the best-supported estimates of adult size and mass?
+
+The credible modern positions, held side by side without averaging `[SPE-31]`:
+
+| Quantity | Value | Basis | Source |
+|---|---|---|---|
+| Longest *scientifically verified* total length | **12 m** | Audit of length records; all >12 m records are not first-hand measurements | McClain et al. 2015, *PeerJ* 3:e715 (doi:10.7717/peerj.715) |
+| Expert consensus maximum TL | **~13 m (females), ~10 m (males)**, measured relaxed post-mortem | ~130 examined specimens + whale-stomach beaks | O'Shea & Bolstad 2008 (TONMO fact sheet, expert web publication); 2025 ALCES update |
+| Maximum mantle length | **2.25 m** (O'Shea & Bolstad 2008) vs **2.79 m** ("longest reliably measured", Cook Strait 1879; Paxton 2016) vs **~2.75 m** (ALCES 2025) vs **2.4 m** (largest literature DML used by Perales-Raya et al. 2020) | different reliability filters on the same historical record | see ledger `[SPE-09, SPE-10, SPE-11, SPE-12, SPE-30]` |
+| Maximum mass | **~275 kg** (females; O'Shea & Bolstad 2008) to **~300 kg** (ALCES 2025); Guinness lists ~220 kg as the heaviest weighed entire specimen; males ~150–200 kg | weighed specimens are rare; >300 kg figures for *Architeuthis* are unsupported | `[SPE-23]` |
+| Statistical extrapolation | TL of **20 m "eminently plausible"** | allometric extrapolation from historical data; **disputed** | Paxton 2016, *J. Zool.* 300:82–88 (doi:10.1111/jzo.12347) |
+
+The famous historical giants — Thimble Tickle 1878 ("55 ft", claimed largest ever, resting entirely on a second-hand account in a Moses Harvey letter, with no material preserved) and Lyall Bay 1887 (55 ft 2 in *paced, not taped*, on an animal whose mantle was only ~1.8 m) — are regarded by modern authorities as artifacts of second-hand reporting and post-mortem tentacular stretching `[SPE-07, SPE-14, MYT-15, MYT-16]`. Paxton (2016) is the minority peer-reviewed defense of such totals; giant squid specialists rejected it publicly (O'Shea capped plausible TL at ~15 m "at the absolute, most generous upper end"), but no formal journal rebuttal was located — the criticism lives in press interviews and blogs `[SPE-13]`.
+
+Two additional size caveats are well documented. Sizes estimated from beaks carry large errors: for one Réunion Island specimen, published allometric equations gave mantle lengths anywhere from 2,153 to 3,060 mm from the same lower rostral length (Romanov et al. 2017, JMBA) `[SPE-17]`. And sexual size dimorphism is pronounced and female-biased: mature Iberian males weighed 42 kg (98 cm ML) and 66 kg (122 cm ML) (Guerra et al. 2004, JMBA 84), whereas subadult females already reached 148 kg (180 cm ML); in the 2014–15 Sea of Japan series every animal over 160 cm ML was female (Kubodera et al. 2018) `[SPE-21, SPE-22]`.
+
+---
+
+## 4. Where have giant squid been documented geographically?
+
+The documented record is circumglobal in temperate deep waters, absent from the high Arctic and Antarctic, and rare at tropical low latitudes — with the crucial caveat that the map is drawn almost entirely by strandings, fisheries bycatch and predator stomachs, so "absence" is only as solid as very uneven sampling (da Fonseca et al. 2020; Roper & Shea 2013, *Am. Malacol. Bull.* 31:109–122) `[TAX-33]`.
+
+Regions with documented specimen records (each anchored to at least one verified source; see ledger `[TAX-11]`–`[TAX-32]`):
+
+- **Newfoundland** — the 1870s cluster; ~30-year recurrences proposed by Aldrich (1968, *Sarsia* 34:393–398; 1991, *Bull. Mar. Sci.* 49:457–481); 148 specimens tallied by Guerra et al. 2011.
+- **Norway** — roughly 30 records, autumn/winter, 62–70°N; the 1954 Ranheim specimen; a live 1982 Radøy capture whose blood enabled the only *Architeuthis* physiology experiment (Brix 1983, *Nature* 303:422–423).
+- **Iceland** (from 1639), **British Isles** (e.g., Scarborough 1933 = "*A. clarkei*", Robson 1933; a North Sea Fladen Ground male, Hoving et al. 2006, *Basteria* 70), **Ireland** (~7 records since 1673; three mature males trawled 1995: Lordan et al. 1998, JMBA 78:903–917).
+- **Northern Spain / Bay of Biscay** — a hotspot: 60 strandings 1962–2016, live fishery captures, the 2016 Bares live stranding (Guerra et al. 2018), and the Carrandi trawling grounds near the Avilés Canyon.
+- **Mediterranean** — exactly **one** published record, a female stranded at Fuengirola on the Alborán Sea coast, best read as an Atlantic stray (González, M.C., et al. 2000, JMBA 80:745–746 — note: first author is María C. González, not the Vigo group; this mis-attribution was caught and corrected during citation verification) `[TAX-19]`.
+- **Azores/Portugal** — mainly via sperm whale stomachs (Clarke et al. 1993: Architeuthidae 12.1% of cephalopod mass in Azorean whales).
+- **Southern Africa** — Roeleveld & Lipinski 1991 (*J. Zool.* 224:431–477); >60 SE Atlantic records per Guerra et al. 2011.
+- **Australia (mainly Tasmania)** and **New Zealand** — a global hotspot (Förch 1998, NIWA Biodiversity Memoir 110; Cook Strait strandings 1879–1887; heavy trawl bycatch on the Chatham Rise).
+- **Japan** — Ogasawara Islands (the 2004/2012 imaging site) and the Sea of Japan (the 2014–15 influx of 57 specimens; juveniles off Kyushu, Wada et al. 2015, *Mar. Biodivers. Rec.* 8:e153; seasonal eDNA detections, Wada et al. 2020, *Mar. Biol.* 167:160).
+- **Hawaii** (one partial specimen, institutionally reported, weakly documented), **Gulf of Mexico** (first specimen 1954; trawled specimen 2009; live animal filmed 2019; compilation: Roper et al. 2015, *Am. Malacol. Bull.* 33:78–88), **SW Atlantic** (Falklands "Archie" 2004; Brazil: Martins & Perez 2009), **southern Indian Ocean** (beaks from sleeper shark and albatross diets at Kerguelen/Crozet, 47–48°S: Cherel 2003, JMBA 83:1295–1296; a Réunion carcass, Romanov et al. 2017), and the **eastern Pacific** (first record: a 45-mm juvenile from a lancetfish stomach off Chile, Roper & Young 1972, *Proc. Biol. Soc. Wash.* 85:205–222).
+- **Western Australia** — 2026 eDNA detections in the Cape Range and Cloates submarine canyons (Nester et al. 2026, *Environmental DNA*, doi:10.1002/edn3.70261), the northernmost eastern Indian Ocean record and a sign that molecular methods are redrawing the map `[TAX-23]`.
+
+Genetically, this global range holds a single species: mitochondrial genomes of 43 specimens from across the range show exceptionally low diversity and no geographic structure (Winkelmann et al. 2013, *Proc. R. Soc. B* 280:20130273), collapsing the ~18–21 nominal species of the 19th–20th centuries into *A. dux* `[TAX-02, TAX-04, TAX-06]`. The authors themselves note the low diversity is consistent with either a recent population expansion or a selective sweep — the ambiguity is theirs, not this review's `[TAX-08]`. The widely repeated exact diversity value (π = 0.00035) could not be verified against the paper and is not asserted here `[TAX-07]`.
+
+---
+
+## 5. What depth ranges and ocean conditions are supported by evidence?
+
+**Directly observed depths (A):** 900 m (2004 baited rig), ~630–900 m (2012 submersible; press-reported only), 759 m (2019 Gulf of Mexico), and Medusa-platform squid encounters spanning 557–950 m (Robinson et al. 2021) `[DEP-01, DEP-04, DEP-05]`.
+
+**Specimen-based depths (B):** New Zealand trawl bycatch mostly from hoki-fishery tows at 400–600 m, with a single record from >800 m orange roughy grounds (Förch 1998; Bolstad & O'Shea 2004) `[DEP-07]`; Sea of Japan animals at the surface, in set nets at 50–150 m, and in bottom gear at 200–300 m — almost certainly displaced, moribund animals rather than normal habitat (Kubodera et al. 2018) `[DEP-08]`.
+
+**The canonical "300–1,000 m" range is an expert synthesis, not measured occupancy.** It traces to Roper & Boss (1982, *Scientific American* 246(4):96–105) and is restated by Roper & Shea (2013) as an envelope drawn from net captures plus sperm whale foraging behavior; other authors give different bounds ("probably surface waters to 1200 m, mainly caught 300–600 m": Hoving et al. 2006) `[DEP-11, DEP-12]`. No depth-time telemetry has ever been obtained from a living giant squid, so diel vertical migration is unverified in either direction `[DEP-28]`.
+
+**A genuine unresolved conflict:** statolith oxygen-isotope analysis of three Tasmanian females indicated lifetime average temperatures of 10.5–12.9 °C, corresponding locally to average depths of only 125–250 m and maxima near 500 m (Landman et al. 2004, *Mar. Biol.* 144:685–691) — substantially shallower than the 630–900 m visual encounters. Region, ontogeny (a shallow early-life phase pulling averages up), and proxy assumptions could each explain the gap; the sources are left in tension `[DEP-13]`.
+
+**Physiology and conditions (B/D):** *Architeuthis* belongs to the ammoniacal squids that hold ammonium ions in muscle tissue for near-neutral buoyancy (Clarke, Denton & Gilpin-Brown 1979, JMBA 59:259–276); a consequence is that dead animals float, biasing the record toward "floaters" and stranders `[DEP-17, DEP-18]`. The one direct physiological experiment on the species found blood-oxygen affinity fell more than fourfold between 6.4 and 15 °C, suggesting giant squid entering warm water may suffocate (Brix 1983, *Nature* 303:422–423, from the single 1982 Norwegian live capture) — the root of all "thermal limit" and "thermal trap" arguments, including the Sea of Japan "natural trap" hypothesis of Kubodera et al. (2018), which remains an untested inference `[DEP-19, DEP-09]`. Metabolic statements rest entirely on enzyme proxies (citrate synthase in mantle tissue: Seibel et al. 2000, *Biol. Bull.* 198:284–298), read by some as supporting a fairly active aerobic metabolism with little burst capacity — cited both for and against the sluggish-drifter picture `[DEP-20]`.
+
+**Strandings, clusters and the seismic-survey question.** Strandings cluster in space and time (Newfoundland 1870s and 1961–68; Cook Strait 1879–87; Asturias autumn 2001 and 2003; Sea of Japan winter 2014–15), and all proposed explanations — Labrador Current periodicity, warm-water hypoxia, the Tsushima Warm Current trap, seismic surveys — remain hypotheses `[DEP-25, TAX-34]`. The Asturias clusters coincided with airgun seismic surveys, and necropsies reported acute tissue and statocyst damage (Guerra et al. 2004, ICES CM 2004/CC:29; Guerra et al. 2011); but the causal link is unproven — mechanistic support comes only from laboratory and offshore exposures of *other* cephalopod species (André et al. 2011, *Front. Ecol. Environ.* 9:489–493; Solé et al. 2017, *Sci. Rep.* 7:45899), a dead giant squid sighted from a working seismic vessel off Brazil was never examined (Leite et al. 2016), and regulator-commissioned reviews call airguns only a "potential contributing factor" `[DEP-21, DEP-22]`. This review records the seismic hypothesis as **disputed**.
+
+---
+
+## 6. What is known about their movement, hunting, diet, and predators?
+
+**Hunting mode — a live disagreement.** From gut contents and functional morphology, Regueira et al. (2014, *Hydrobiologia* 725:49–55) characterize *A. dux* as an "opportunistic ambushing hunter"; from direct observation, Kubodera & Mori (2005) and Robinson et al. (2021) describe an active, visually guided predator that stalks and strikes. All direct observations are bait- or lure-mediated; a mixed strategy is plausible and no study excludes it. Both positions are peer-reviewed; neither is treated as settled here `[DIE-09]`.
+
+**Diet (B).** Identifiable gut contents include: *Nototodarus* sp. and *Architeuthis dux* tissue in a New Zealand specimen (Bolstad & O'Shea 2004, *NZ J. Zool.* 31:15–21 — the first report of conspecific tissue, presented explicitly as *possible* cannibalism with autophagy weighed as an alternative) `[DIE-01–DIE-03]`; hoki (*Macruronus novaezelandiae*) identified by DNA in an *Architeuthis* gut sample, plus molecular evidence read as supporting cannibalism (Deagle et al. 2005, *J. Hered.* 96) — note the hoki record belongs to Deagle et al., not Bolstad & O'Shea, a conflation common in popular accounts `[DIE-04, DIE-05]`; blue whiting, horse mackerel, *Nephrops* and *Eledone* in three Irish males (Lordan et al. 1998 — with the caveat that benthic items may be net-feeding artifacts) `[DIE-06]`; and, synthetically, mainly pelagic, fast-swimming shoaling fishes and cephalopods, with an estimated trophic level of 4.7 (Regueira et al. 2014) `[DIE-07, DIE-08]`. Beak isotope profiles show a rising δ15N of up to ~5.8‰ through early life — an ontogenetic climb from small, low-trophic prey to larger prey — and a δ13C stability consistent with restricted adult home ranges (Guerra et al. 2010, *ICES J. Mar. Sci.* 67:1425–1431); isotopes also place *A. dux* within, not above, the upper trophic web of large deep-sea cephalopods (Cherel et al. 2009, *Biol. Lett.* 5) `[DIE-11–DIE-13]`.
+
+**The giant eye.** Nilsson et al. (2012) documented a ~27-cm eye with a ~9-cm pupil — among the largest eyes known — and *hypothesized* via visual modeling that such eyes are specialized for detecting the bioluminescent plumes stirred by approaching sperm whales at ranges beyond 120 m. Schmitz et al. (2013, *BMC Evol. Biol.* 13:45) countered that giant squid eyes are not exceptional for their body size and disputed the model constants; Nilsson et al. (2013, *BMC Evol. Biol.* 13:187) rebutted. The debate is unresolved `[DIE-30–DIE-32]`.
+
+**Feeding apparatus (B).** Prey are seized with two long feeding tentacles bearing toothed, serrated sucker rings — no hooks, in labeled contrast to the colossal squid *Mesonychoteuthis hamiltoni*, which bears swiveling hooks (tentacle morphology: Roeleveld 2002, *Bull. Mar. Sci.* 71:725–737) `[DIE-33]`.
+
+**Predators.** Sperm whales are the documented major predator (Section 8). Beyond them: large sleeper sharks (*Somniosus* cf. *microcephalus*) at Kerguelen contained *A. dux* remains implying mantle lengths to ~220 cm — though the authors note predation cannot be distinguished from scavenging (Cherel & Duhamel 2004, *Deep-Sea Res. I* 51:17–31) `[DIE-17, DIE-18]`; long-finned pilot whales stranded in Tasmania contained *A. dux* beaks (Beasley et al. 2019, *PLOS ONE* 14:e0206747) `[DIE-19]`; juvenile Architeuthidae beaks occur in wandering albatross food samples across the Southern Ocean (Imber 1992, *J. R. Soc. NZ* 22:243–263), with the caveat that a large share of albatross cephalopod intake is scavenged — the scavenging estimate (~30% by number, ~85% by mass of cephalopod diet) belongs to Xavier, Croxall & Reid (2003, *Mar. Biol.* 142:611–622), an attribution corrected during verification `[DIE-20, DIE-21]`; a blue shark stomach off Baja California held a pair of *Architeuthis* beaks (weakly documented) `[DIE-22]`; and an old, genus-uncertain Georges Bank record puts "jaws of a giant squid (genus perhaps *Architeuthis*)" in a swordfish stomach — swordfish should not be presented as an established predator `[DIE-24]`. There is no credible record of killer whale predation on *Architeuthis* found by this review. Parasites (larval cestodes; anisakid nematodes in a 2026 NZ molecular survey) independently imply trophic links to shark and cetacean hosts `[DIE-34]`.
+
+**Movement.** No tagging data exist. The evidence for restricted adult ranges is the beak δ13C profile (above); the evidence for large-scale dispersal is genetic panmixia (Winkelmann et al. 2013) presumably via drifting paralarvae. These operate on different timescales and are not in conflict, but neither is directly observed `[DIE-12, TAX-08]`.
+
+---
+
+## 7. What is known about reproduction, growth, lifespan, and development?
+
+**Anatomy and mating (B, with one recent A).** Males have a very long muscular terminal organ (penis) and both ventral arm tips show modification described as "probably hectocotylization" — whether these modified tips function in spermatophore transfer is unknown, so the popular claim "males lack a hectocotylus" needs nuance (Hoving et al. 2004, from 15 South African specimens) `[REP-01, REP-02]`. The first record of a mated female (caught off southern Australia) had spermatophores embedded in the skin of both ventral arms; Norman & Lu (1997, *Nature* 389:683–684, doi:10.1038/39497) proposed — as hypothesis — that males inject spermatophores under pressure with the penis. No mating has ever been observed `[REP-03, REP-04]`. Supporting evidence has accumulated: spermatangia are deposited non-specifically over females' bodies `[REP-06]`; all 66 genotyped spermatangia on one Japanese female derived from a single male, suggesting single-pair copulation can supply a female's entire sperm load (Murai et al. 2021, *Deep-Sea Res. I* 175:103585) `[REP-07]`; males have repeatedly been found with spermatangia implanted in their *own* arms, interpreted as accidental self-implantation (Hoving et al. 2006) `[REP-08]`; squid spermatophores can implant autonomously into tissue (demonstrated in *Onykia ingens*, Hoving & Laptikhovsky 2007, *Biol. Bull.* 212:177–179 — analogy, not *Architeuthis* data) `[REP-09]`; and in 2025 two moribund males in Japan were observed with terminal organs extended through their own funnels and moving actively — the first living-animal evidence bearing on the transfer mechanism (Sasai, Tanaka & Hirohashi 2025, *microPublication Biology*) `[REP-05]`. How sperm implanted in a female's skin ultimately reach the eggs is unknown `[REP-10]`.
+
+**Fecundity and spawning.** Ovarian counts give potential fecundities of 3.5–6.2 million small oocytes; short oviducts and multiple oocyte size classes suggest intermittent rather than one-shot spawning (Hoving et al. 2004) `[REP-11]`. Ripe eggs are small (all reported sizes under ~2 mm) `[REP-12]`. **No spawning event and no egg mass has ever been confirmed in the wild**; the gelatinous-egg-mass idea is analogy with other large oceanic squid. The spectacular ~1-m gelatinous spheres filmed by divers in the NE Atlantic — sometimes touted in the press as giant squid eggs — were genetically identified in 2021 as egg masses of *Illex coindetii* (Ringvold et al. 2021, *Sci. Rep.* 11:86164) `[REP-13, REP-14]`.
+
+**Age and growth — an unresolved controversy.** All ages are assumption-dependent because the one-increment-per-day reading of statoliths and beaks has never been validated for this species (it would require holding a live animal, never achieved) `[REP-26]`. The published positions:
+
+- **Sub-annual to ~1 year:** statoliths of three mature Irish males read as daily increments, with instantaneous growth 2.96–4.25%/day (Lordan et al. 1998). (The exact day-range printed in indexed copies appears garbled and is not quoted here.)
+- **~1 year:** 351 increments in a sectioned Tasmanian statolith (Landman et al. 2004).
+- **~1.1–1.8 years measured, ~3 years extrapolated to the largest specimens:** beak micro-increments from 10 animals; average growth ~1.97 mm ML/day (Perales-Raya et al. 2020, *Bull. Mar. Sci.* 96(2), doi:10.5343/bms.2019.0041).
+- **~3–6 years:** energy-balance growth modeling (Grist & Jackson 2007, *Rev. Fish Biol. Fish.* 17).
+- **Up to ~14 years permitted:** bomb-radiocarbon in the same Tasmanian statoliths, under a model "extremely dependent" on depth and growth assumptions (Landman et al. 2004).
+
+Perales-Raya et al. (2020) themselves describe the literature as spanning 1–14 years. This dossier reports the disagreement as the robust finding `[REP-19–REP-25]`. If the increment ages are even approximately right, growth is extraordinary: from a <2-mm egg to hundreds of kilograms in one to a few years `[REP-27]`.
+
+**Development.** The paralarva–juvenile–adult series is anchored by: 6.7–8.8-mm NZ paralarvae (O'Shea et al. 2022); the first juveniles known (45 and 57 mm ML, from fish stomachs off Chile and Madeira — note: predator stomachs, not surface tows, so the "juveniles live near the surface" claim is weaker than commonly stated; Roper & Young 1972) `[DEP-15]`; and three young juveniles (140.8–332 mm ML) from Japanese coastal waters in 2013 (Wada et al. 2015 — juveniles, not "paralarvae" as sometimes reported) `[REP-15, REP-17]`. Males mature much smaller than females; female maturity thresholds are poorly quantified `[REP-29]`.
+
+---
+
+## 8. What evidence exists concerning interactions with sperm whales?
+
+**The core fact (B):** *Architeuthis* beaks and flesh are repeatedly documented in sperm whale stomachs across many regions — New Zealand, the Tasman Sea, the Azores, Madeira, Hawaii, Cornwall, Ireland `[SWH-01]`. The most-cited intact case is Robert Clarke's 1955 report of a large giant squid recovered whole from an Azores whale (*Norsk Hvalfangst-Tidende* 44; the commonly quoted ~10.5 m/184 kg figures could not be checked against the original and are not asserted) `[SWH-10]`.
+
+**How much of the diet?** The answer depends on the metric and the region, and the dossier always separates by-number from by-mass `[SWH-04]`:
+
+- Azores (17 whales, 28,738 cephalopods): Architeuthidae **12.1% by estimated mass**, third behind Octopoteuthidae (39.8%) and Histioteuthidae (32.7%); the modal prey item was a 400–450-g squid (Clarke, Martins & Pascoe 1993, *Phil. Trans. R. Soc. B* 339:67–82) `[SWH-02, SWH-03]`.
+- Hawaii (2 whales): 0.7% by number but 26.5% by weight (Clarke et al. 1998, JMBA 78) `[SWH-04]`.
+- One Penzance-stranded whale: 42.7% of lower beaks and **82.2% by estimated weight** — an outlier showing individual variability (Clarke & Pascoe 1997, JMBA 77) `[SWH-05]`.
+- Tasman Sea (66 whales): three large species — *Taningia danae*, *Kondakovia longimana* and an *Architeuthis* sp. — together ~80% of represented flesh weight (Clarke & MacLeod 1982, *Mem. Natl. Mus. Victoria* 43:25–42; venue corrected during verification) `[SWH-06]`.
+- North Sea and Mediterranean strandings: essentially **no** *Architeuthis* at all (Santos et al. 1999, *MEPS* 183; Foskolos et al. 2020, *Deep-Sea Res. I*) `[SWH-08]`.
+- Southern Hemisphere whaling data, as revised by Cherel (2021): *Architeuthis* is nowhere among the numerically dominant prey `[SWH-07]`.
+
+**Scars (C).** Squid-attributed circular sucker scars are documented in the peer-reviewed record — on 6 of 57 whales off Iceland, some "abnormally large" (Roe 1969, *J. Cons.* 33) `[SWH-11]`. The popular chain "huge scars ⇒ 30–50-m squid" is unsupported: scars enlarge as the whale grows, the scarring species is unidentified, and in the Southern Ocean large scars may come from the hook-bearing colossal squid. No systematic scar-measurement study exists `[SWH-12]`.
+
+**Never observed.** No scientist has ever observed or filmed a sperm whale capturing, killing, or eating a giant squid; all knowledge of the interaction is reconstructed from stomach contents, scars, tag data, and inference `[SWH-13]`. The "titanic surface battle" genre descends from whaler anecdote — canonically Frank Bullen's *The Cruise of the Cachalot* (1898) — and is uncorroborated; tag data place capture attempts at depth `[SWH-14]`. There is likewise no documented case of a giant squid killing or seriously injuring a sperm whale `[SWH-19]`.
+
+**Mechanism (C/D, largely from other species).** Tagged sperm whales hunt at depth with echolocation, producing capture "creaks"/buzzes concentrated in the deepest phase of ~45-minute dives with average maximum depths of 644–985 m by region — squarely overlapping the observed *Architeuthis* depth range (Miller et al. 2004; Watwood et al. 2006, *J. Anim. Ecol.* 75; Teloni et al. 2008: buzzes 17–1,860 m) `[SWH-20, SWH-25]`. Squid are adequate sonar targets (Madsen et al. 2007), but squid hearing — measured only in the small shallow-water *Doryteuthis (Loligo) pealeii* — detects only 30–500 Hz particle motion, nothing in the ultrasonic click band (Mooney et al. 2010, *J. Exp. Biol.* 213); the extension to *Architeuthis* is an explicitly labeled extrapolation, since giant squid hearing has never been measured `[SWH-21, SWH-23]`. The old "acoustic stunning" idea has been tested and rejected on both sides: intense playback clicks neither debilitate nor alarm squid (Wilson et al. 2007, *Biol. Lett.* 3), and whales *reduce* click output by 1–2 orders of magnitude during terminal buzzes (Fais et al. 2016, *Sci. Rep.* 6) `[SWH-22]`.
+
+**Predation pressure.** Malcolm Clarke's estimates that sperm whales consume a cephalopod biomass possibly "over twice the biomass of fish caught by man" (Clarke 1996, *Phil. Trans. R. Soc. B* 351) — and the earlier ~50 Mt/yr Southern Hemisphere figure relayed via Roper (1981)/Voss (1973) — are explicitly approximate, one estimation lineage rather than independent confirmations; the definitive methodological verdict is that confidence limits on such consumption estimates are "discouragingly wide" (Santos, Clarke & Pierce 2001, *Fish. Res.* 52) `[SWH-15–SWH-17]`. **No defensible estimate exists of how many giant squid sperm whales eat per year.** Notably, a 2025 faecal-DNA study of Azorean sperm whales detected mainly *Histioteuthis*, not *Architeuthis* `[SWH-29]`.
+
+---
+
+## 9. What were the major milestones in photographing and filming living specimens?
+
+Distinguishing first *claimed* from first *well-verified* (full chronology in `observation-timeline.md`):
+
+| Year | Event | Status |
+|---|---|---|
+| 1861 | *Alecton* surface encounter off Tenerife; capture attempted, fragment lost | first credible claimed live encounter; no surviving material |
+| 1873 | First photograph of a (dead) giant squid: Logy Bay specimen on Moses Harvey's sponge bath | commonly cited first; no rigorous priority audit exists |
+| 2002 | Photographs of a live adult at the surface, Goshiki beach, Kyoto | claimed; circulates only in secondary compilations — no primary record located |
+| **2004** | **First photographs of a live giant squid in its deep habitat** (900 m, Ogasawara; >550 stills; severed tentacle recovered) | **well verified** (Kubodera & Mori 2005) |
+| 2006 | First video of a live (dying) adult at the surface, hooked at ~650 m off Ogasawara | well documented in press; **no peer-reviewed publication** |
+| 2012 | First video at depth: Medusa/e-jelly platform (~700 m) recorded footage days before Kubodera's crewed Triton submersible dive (630→900 m, reported 10 July) on the same NHK/Discovery expedition | event certain; depths/dates/priority are press-sourced; NHK broadcast 13 Jan 2013, Discovery 27 Jan 2013 |
+| 2015 | Best close-range in-water footage of an active live animal (Toyama Bay marina, 24 December, diver video) | well documented (press) |
+| **2019** | **First live giant squid filmed in US waters** — Medusa at 759 m, Gulf of Mexico, 19 June | **well verified** (NOAA logs; Robinson et al. 2021) |
+| 2025 | (Comparison, different species) First confirmed live colossal squid *Mesonychoteuthis hamiltoni* filmed — juvenile at 600 m, South Sandwich Islands, ROV SuBastian | well verified (Schmidt Ocean Institute) — **not** an *Architeuthis* milestone |
+| 2025 | Social-media video of apparent surface feeding on a diamondback squid | unvetted; treated as unconfirmed |
+
+A standing embarrassment of the record: neither the 2006 surface video nor any part of the 2012 deep footage was ever described in a peer-reviewed paper `[LIV-05, LIV-06]`.
+
+---
+
+## 10. Which common claims about giant squid are exaggerated, disputed, or unsupported?
+
+Fully developed, claim by claim, in `myths-and-evidence.md`. Summary of verdicts:
+
+- **"Giant squid reach 18 m (57–60 ft) or more":** disputed/unsupported as fact. The textbook figures descend from the second-hand Thimble Tickle (1878) report and the paced Lyall Bay (1887) measurement; the longest scientifically verified TL is 12 m (McClain et al. 2015); ~13 m is the expert post-mortem-relaxed maximum; Paxton (2016) is a disputed statistical minority position.
+- **"Sperm whales and giant squid fight titanic battles at the surface":** unsupported (whaler anecdote); the real interaction is predation at depth, never directly observed.
+- **"Huge sucker scars prove 50-m squid":** unsupported; scars grow with the whale and are unattributed to species.
+- **"Giant squid attack ships and people":** unsupported in every investigated case — the *Pearl* (1874) is regarded as newspaper fiction; the *Britannia* (1941) survivor story is a debunked wartime urban legend (Dyer 2020, *War in History*); the 2003 Kersauson yacht account is plausible-but-unconfirmed eyewitness impression; USS *Stein* (1976) rests on thin documentation and, taken at face value, would implicate a hook-bearing squid, not *Architeuthis*.
+- **"The kraken of legend was the giant squid":** disputed among scholars. Zoological reviews say yes; medieval-studies work roots the pre-1750s tradition (hafgufa, Egede's 1734 monster) in whales and bestiary lore (McCarthy et al. 2023; Paxton et al. 2005; Latva 2023). The kraken label was attached to *Architeuthis* retrospectively after the 1850s–1870s.
+- **"Globsters are giant cephalopods":** resolved — the St. Augustine Monster (1896) and its kin are decomposed whale blubber (Pierce et al. 1995; 2004, *Biol. Bull.*).
+- **"Architeuthis was a sluggish drifter" / "is a fearsome apex monster":** both extremes are wrong or unsupported; the animal is an actively swimming, visually guided predator of mid-size fish and squid — and itself prey.
+
+---
+
+## 11. What important questions remain unanswered?
+
+Ranked and elaborated in `unresolved-questions.md`. Headlines: natural (unbaited) behavior at depth; true lifespan (1–14 years unresolved) and growth validation; spawning site, mode, and egg masses; the fertilization mechanism; depth-use and possible vertical migration (no telemetry ever); population size and trend; whether the single global population is truly panmictic (nuclear data absent); sensory capabilities (hearing never measured); the cause(s) of stranding clusters including the seismic question; and the real maximum size.
+
+---
+
+## 12. What observation and sampling difficulties make these questions hard to resolve?
+
+1. **The habitat.** A mesopelagic/bathyal animal at ~300–1,000 m is beyond diver access, in darkness, under pressures that make routine survey expensive; the two successful imaging programs required purpose-built unobtrusive platforms (far-red light, optical lures) or crewed submersibles with weeks of ship time for minutes of footage `[LIV-01, LIV-06, DEP-06]`.
+2. **Attraction bias.** Every deep observation used bait or lures, so observed "behavior" is behavior toward artificial stimuli `[LIV-14]`.
+3. **The floater bias.** Ammoniacal buoyancy means dead giant squid float and strand; the specimen record over-samples dying animals and coastal regions with people, fisheries and stranding networks — the global "map" partly maps observers `[DEP-17, DEP-18, TAX-33]`.
+4. **No captivity.** No giant squid has been kept alive, so nothing can be validated experimentally — not increment periodicity (hence the 1–14-year lifespan spread), not thermal tolerance, not hearing, not growth `[REP-25, REP-31]`.
+5. **Predator-filtered sampling.** Much of the record arrives through sperm whale stomachs, whose beak-based reconstructions carry accumulation and regression biases of unquantified size for very large squid `[SWH-28]`.
+6. **Fisheries-shaped depth data.** Capture depths reflect where nets tow (hoki grounds at 400–600 m), not necessarily where squid live `[DEP-07]`.
+7. **Rarity of key life stages.** Mature males, paralarvae, eggs and spawning females are each known from a handful of specimens or not at all `[REP-13, REP-16, REP-29]`.
+8. **Historical measurement chaos.** Stretched tentacles, paced measurements, second-hand reports and preservation shrinkage corrupt the historical size record beyond full repair `[SPE-14, SPE-15, SPE-17]`.
+9. **Publication gaps.** Landmark observations (2006, 2012) were broadcast, not published, leaving load-bearing facts (depths, dates) resting on press `[LIV-05–LIV-07]`.
+10. **A whaling-era data stream that ended.** Most diet knowledge came from commercial whaling stomach collections that ceased decades ago; modern replacements (faecal eDNA, water eDNA) are only beginning `[SWH-28, SWH-29]`.
+
+---
+
+## What Would We Know If All Inferences Were Removed?
+
+*This section deliberately contains only conclusions supported by direct observation of living animals (category A) or physical specimen evidence (category B). No estimates, extrapolations, correlations, or model results appear.*
+
+**The animal exists and is one described species.** Giant squid are real animals, named *Architeuthis dux* by Steenstrup (1857) from physical material; hundreds of specimens have since been captured, stranded, or recovered worldwide and are held in museums (e.g., NHM London's 8.62-m female, trawled off the Falklands in 2004; the Smithsonian's Spanish-caught specimens; Danish, New Zealand, Japanese, and Spanish collections).
+
+**Measured bodies.** Preserved and fresh specimens have measured mantle lengths up to the low-to-high 2-m range and measured weights up to the low hundreds of kilograms; a measured 8.62-m whole female exists; a severed tentacle measuring 5.5 m was physically recovered from a live animal's attack on a camera rig in 2004. Specimens have a parrot-like beak, a radula, two long feeding tentacles, arms with suckers rimmed by toothed chitinous rings, no hooks, and very large eyes — one photographed eye was about 27 cm across. Mature males possess a long muscular terminal organ; females have ovaries containing millions of small (<2 mm) oocytes. Females have been found with sperm packets embedded in the skin of their arms; males have been found with sperm packets embedded in their own arms; all genotyped sperm packets on one female matched a single male. Statoliths and beaks show countable growth increments. Gut contents of specimens have included remains of *Nototodarus*, hoki (by DNA), blue whiting, horse mackerel, and *Architeuthis* tissue.
+
+**Living animals have been seen and filmed.** Live giant squid were photographed at 900 m depth (2004), filmed at depth (2012; 759 m in 2019), filmed at the surface and in harbors (2006, 2015, 2022, 2023, and others), and observed alive in nets. On camera, living animals attacked bait and a light lure with their tentacles and arms, swam actively, appeared metallic silver/gold under artificial light at depth, jetted ink at the surface, and in two 2025 cases moribund males extended their terminal organs through their own funnels. Live-caught paralarvae (millimetres long) existed and died in captivity; no giant squid has ever lived in an aquarium. Every giant squid encountered alive by people has died or disappeared.
+
+**Places and predators.** Specimens have been physically recovered from the North Atlantic (Newfoundland to Iberia, Ireland, Britain, Norway, Iceland, one Alborán Sea stranding), South Africa, Australia, New Zealand, Japan, Hawaii, the Gulf of Mexico, the SW Atlantic, and the Indian Ocean; paralarvae and juveniles from New Zealand and Japanese waters and from fish stomachs off Chile and Madeira. *Architeuthis* remains — beaks and flesh, occasionally near-intact bodies — have been physically recovered from the stomachs of sperm whales in many regions, of sleeper sharks at Kerguelen, of pilot whales in Tasmania, and beaks from albatross food samples. Sperm whales carry circular sucker-type scars.
+
+**And that is all.** Everything else — depth ranges, lifespan, growth rate, diet breadth, hunting strategy, mating mechanics, spawning, population structure, sensory worlds, the reasons for strandings, and every maximum-size figure beyond directly measured specimens — is inference layered on this physical core.
+
+---
+
+*Prepared as part of Operation Architeuthis. See `evidence-ledger.csv` for the claim-by-claim register, `annotated-bibliography.md` for sources, and `source-quality-audit.md` for methods, verification statistics, and honest limitations of this review.*
