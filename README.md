@@ -67,6 +67,14 @@ Where evidence is too weak for a firm conclusion, the documents say so.
 | `annotated-bibliography.md` | Key sources with concise notes on why each matters; primary vs. secondary identified. |
 | `source-quality-audit.md` | Search methods, inclusion/exclusion decisions, missing or inaccessible sources, conflicting measurements, and limitations of this review. |
 
+## Book Edition
+
+The entire dossier is also compiled into a single typeset volume in `book/`:
+`Operation-Architeuthis-Dossier.pdf` (94-page A4 book with linked contents) and
+`Operation-Architeuthis-Dossier.docx` (editable Word edition). Both are generated
+from the files above by `book/build_book.py` (deps: `pip install weasyprint markdown`,
+plus LibreOffice for the .docx) — rerun it after editing any deliverable.
+
 ## Scope Note
 
 The subject is *Architeuthis dux* only. The colossal squid
