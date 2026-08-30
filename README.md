@@ -75,6 +75,15 @@ The entire dossier is also compiled into a single typeset volume in `book/`:
 from the files above by `book/build_book.py` (deps: `pip install weasyprint markdown`,
 plus LibreOffice for the .docx) — rerun it after editing any deliverable.
 
+## Keeping It Current
+
+The update procedure lives in the repository as a Claude Code skill:
+`.claude/skills/update-dossier/SKILL.md`. In any Claude session on this repo —
+scheduled or manual — say **"update the kraken dossier"** (or `/update-dossier`)
+and the sweep-verify-extend-rebuild-PR cycle runs under the same evidence
+standards documented here. If nothing substantive is new, it reports that and
+changes nothing.
+
 ## Scope Note
 
 The subject is *Architeuthis dux* only. The colossal squid
