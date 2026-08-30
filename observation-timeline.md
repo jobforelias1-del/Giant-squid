@@ -13,7 +13,7 @@ Pre-scientific "sightings" are included only where they materially shaped the re
 | 1639 | Carcass strands at Þingeyrarsandur (Thingore Sand), Iceland — oldest generally accepted giant squid stranding; no material preserved | 🔶 |
 | 1673 | First recorded Irish specimen landed at Dingle, Co. Kerry | 🔶 |
 | 1741 | Egede publishes the 1734 Greenland "most dreadful monster"; modern analysis concludes a cetacean, not a squid | ⚠️ |
-| 1755 | Pontoppidan's *Natural History of Norway* codifies the mile-wide kraken | ✅ (as text) |
+| 1755 | Pontoppidan's *Natural History of Norway* codifies the mile-scale kraken (its back "an English mile and a half in circumference") | ✅ (as text) |
 | 1802 | Denys de Montfort's "poulpe colossal" discredits giant-cephalopod claims for decades | ✅ (as history) |
 | 1853 (Dec) | Large cephalopod strands at Raabjerg, Denmark; cut up for bait; the salvaged beak becomes the basis of *Architeuthus monachus* | ✅ |
 | 1855-11-05 | Capt. Vilhelm Hygom collects the Atlantic specimen (~31°N 76°W) that anchors the name *A. dux* (NHMD 77320 — museum flags "type status in doubt") | ✅ |
@@ -32,7 +32,7 @@ Pre-scientific "sightings" are included only where they materially shaped the re
 | 1878-11-02 | **Thimble Tickle** report: ~55 ft (16.8 m) total claimed, via a second-hand account in a Harvey letter; nothing measured or preserved; long listed as the size record | ⚠️ |
 | 1879–1881 | Verrill's monographs (*Trans. Connecticut Acad.* 5) give the Newfoundland series its scientific description; an 1880 review hails the replacement of "Kraken" legends with "veritable specimens" | ✅ |
 | 1887 | Lyall Bay, NZ: "*A. longimanus*" — 55 ft 2 in **paced, not taped**, mantle only ~1.8 m; the type case of post-mortem tentacle stretching | ⚠️ |
-| 1896-11 | St. Augustine, Florida: multi-ton carcass named *Octopus giganteus* by Verrill, retracted by him within months; finally shown to be whale blubber (1995/2004) | ✅ (resolution) |
+| 1896-11 | St. Augustine, Florida: multi-ton carcass named *Octopus giganteus* by Verrill, retracted by him within months; shown to be vertebrate collagen (1995) and finally pinned to whale blubber (2004) | ✅ (resolution) |
 | 1898 | Frank Bullen's *Cruise of the Cachalot* publishes the archetypal whale-vs-squid surface "battle" — anecdote, never corroborated | ⚠️ |
 
 ## Specimens and stomachs (1900–1999)
@@ -61,7 +61,7 @@ Pre-scientific "sightings" are included only where they materially shaped the re
 
 | Date | Event | Status |
 |---|---|---|
-| 2000–2001 | O'Shea's NZ expeditions capture the **first live paralarvae** (plankton tows); all die — the only live-holding attempt ever | 🔶 (press/institutional record; specimens later formally described 2022) |
+| 2000–2001 | O'Shea's NZ expeditions capture the **first live paralarvae** (plankton tows); all die — the only known live-holding attempt | 🔶 (press/institutional record; specimens later formally described 2022) |
 | 2001-09 & 2003-10 | Asturias stranding clusters coincide with airgun seismic surveys; acoustic-trauma cause claimed (Guerra et al.) — causation still disputed | 🔶/⚠️ |
 | 2002-01-15 | Goshiki beach, Kyoto: claimed first photographs of a live adult at the surface — circulates only in secondary compilations; no primary record located | 🔶 |
 | 2003-01 | Kersauson trimaran crew reports a squid on the hull off Madeira — no photo, no trace | 🔶 |
@@ -83,11 +83,11 @@ Pre-scientific "sightings" are included only where they materially shaped the re
 | 2022-04-20 | Live stranding at Ugu beach, Obama City, Fukui; fate unconfirmed | ✅ (press) |
 | 2022-09 | Formal description of the smallest known specimens — five NZ paralarvae, 6.7–8.8 mm (O'Shea et al., *Marine Biodiversity*) | ✅ |
 | 2023-01-06 | Divers film a weak ~2.5-m animal off Toyooka, Hyōgo; press "first scuba video" claims conflict with the 2015 Toyama dive | ⚠️ (priority claim) |
-| 2025 | Moribund males observed with terminal organs extended through their own funnels — first living evidence on the mating mechanism (Sasai et al., *microPublication Biology*) | ✅ |
+| 2025 | Moribund males observed with terminal organs extended through their own funnels — first living evidence bearing on the mating mechanism (Sasai et al., *microPublication Biology*; publication verified; n = 2 moribund animals, not observed mating) | ✅ |
 | 2025-03-09 | *(Comparison — different species)* First confirmed live **colossal squid** (*Mesonychoteuthis hamiltoni*): juvenile filmed at 600 m, South Sandwich Islands (Schmidt Ocean Institute) | ✅ |
 | 2025-12 | Social-media video of an apparently healthy giant squid feeding on a diamondback squid at the surface — if verified, the first natural-feeding footage; currently unvetted | 🔶 |
-| 2026 | eDNA detections extend the documented range to Western Australian submarine canyons (Nester et al., *Environmental DNA*) | ✅ |
+| 2026 | eDNA detections extend the documented range to Western Australian submarine canyons (Nester et al., *Environmental DNA*) — eDNA presence only, not a specimen record | 🔶 |
 
 ## Reading the pattern
 
-Three regimes are visible. **1639–1857:** carcasses accumulate as wonders. **1857–2000:** carcasses accumulate as data — taxonomy, anatomy, diet-via-whales — while the living animal remains entirely unseen. **2004–present:** roughly two decades of direct observation totaling a few hours across a handful of events, every one mediated by bait or lures, three of them (2004, 2019, and the 2021 platform analysis) formally published. The first *claimed* events (Alecton 1861; Kyoto 2002; Medusa's exact first 2012 hit; the 2025 feeding clip) consistently precede the first *well-verified* equivalents (2004 stills; 2019 publication) by years to decades — a recurring signature of how knowledge of this animal actually accretes.
+Three regimes are visible. **1639–1857:** carcasses accumulate as wonders. **1857–2000:** carcasses accumulate as data — taxonomy, anatomy, diet-via-whales — while the living animal in its habitat remains unobserved (surface encounters and live captures — 1861, 1873, 1982 — stay anecdotal or terminal). **2004–present:** roughly two decades of direct observation totaling a few hours across a handful of events — every deep-water one mediated by bait or lures, with only the 2004 stills and the 2019 encounter carrying peer-reviewed publications (Kubodera & Mori 2005; Robinson et al. 2021), while the surface/coastal record was published separately (Guerra et al. 2018; Kubodera et al. 2018). The first *claimed* events (Alecton 1861; Kyoto 2002; Medusa's exact first 2012 hit; the 2025 feeding clip) consistently precede the first *well-verified* equivalents (2004 stills; 2019 publication) by years to decades — a recurring signature of how knowledge of this animal actually accretes.

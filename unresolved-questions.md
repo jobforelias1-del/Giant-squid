@@ -7,7 +7,7 @@ The major open questions about *Architeuthis dux*, ranked by a combination of sc
 ## 1. What does a giant squid do when no one is baiting it?
 
 **Available evidence:** Every deep-water observation ever made (2004 stills; 2012 Medusa and submersible video; 2019 Gulf of Mexico) was elicited by bait, a jig, or a bioluminescence-mimicking lure `[LIV-14]`. The observations establish capacities — active swimming, tentacular strike, stalking of an optical target `[LIV-30]` — not habits.
-**Why unresolved:** Unbaited observation requires either luck or long-duration, non-attractive deep platforms; minutes of cumulative footage exist against a lifetime of behavior. Natural prey capture, schooling or solitary habits, activity cycles, and predator evasion have never been seen. A 2025 surface-feeding video may be the first natural-feeding record but is unvetted `[LIV-24]`.
+**Why unresolved:** Unbaited observation requires either luck or long-duration, non-attractive deep platforms; minutes of video (and a few hours of observation) exist against a lifetime of behavior. Natural prey capture, schooling or solitary habits, activity cycles, and predator evasion have never been seen. A 2025 surface-feeding video may be the first natural-feeding record but is unvetted `[LIV-24]`.
 
 ## 2. How long does a giant squid live, and how fast does it grow?
 
@@ -16,7 +16,7 @@ The major open questions about *Architeuthis dux*, ranked by a combination of sc
 
 ## 3. Where, when, and how do giant squid spawn — and what happens to the eggs?
 
-**Available evidence:** Ovarian counts of 3.5–6.2 million small (<2 mm) oocytes; multiple oocyte size classes suggesting intermittent spawning (Hoving et al. 2004) `[REP-11, REP-12]`. Nothing else. No spawning has been observed, no egg mass ever found; the famous diver-filmed gelatinous spheres are *Illex coindetii* `[REP-13, REP-14]`.
+**Available evidence:** Ovarian counts of 3.5–6.2 million small oocytes, with multiple size classes suggesting intermittent spawning (Hoving et al. 2004); reported ripe-egg sizes, all under ~2 mm, come from secondary compilations `[REP-11, REP-12]`. Nothing else. No spawning has been observed, no egg mass ever found; the famous diver-filmed gelatinous spheres are *Illex coindetii* `[REP-13, REP-14]`.
 **Why unresolved:** Spawning presumably happens at depth, briefly, by animals that die soon after (if the short-lifespan camp is right); fragile gelatinous masses would not survive nets. Paralarvae are known from a handful of specimens (NZ; 6.7–8.8 mm) `[REP-15]`, so a spawning ground must exist near New Zealand — but it has never been located.
 
 ## 4. How does fertilization actually work?
@@ -26,7 +26,7 @@ The major open questions about *Architeuthis dux*, ranked by a combination of sc
 
 ## 5. What depths does it actually use — and does it migrate vertically?
 
-**Available evidence:** Point observations at 630–950 m; NZ trawl bycatch at 400–600 m; isotope-derived lifetime averages of 125–250 m for Tasmanian animals; the textbook "300–1,000 m" is an expert envelope traceable to Roper & Boss (1982) `[DEP-01–DEP-13]`.
+**Available evidence:** Point observations at 630–900 m plus 759 m in the Gulf of Mexico (camera-platform squid encounters overall spanned 557–950 m, not all *Architeuthis*); NZ trawl bycatch at 400–600 m; isotope-derived lifetime averages of 125–250 m for Tasmanian animals; the textbook "300–1,000 m" is an expert envelope traceable to Roper & Boss (1982) `[DEP-01–DEP-13]`.
 **Why unresolved:** No depth-time telemetry has ever been obtained from a living giant squid `[DEP-28]`; the direct-observation depths are where cameras were hung, and capture depths are where fisheries tow. The isotope-vs-observation conflict (shallow averages vs deep encounters) cannot be settled without tracking data, and diel vertical migration remains unverified in either direction.
 
 ## 6. How many giant squid are there, and is the population one panmictic pool?
@@ -46,7 +46,7 @@ The major open questions about *Architeuthis dux*, ranked by a combination of sc
 
 ## 9. How big do they really get?
 
-**Available evidence:** Verified maximum ~12 m TL (McClain et al. 2015); expert post-mortem-relaxed maximum ~13 m; mantle-length ceiling disputed between 2.25 and 2.79 m; heaviest weighed entire specimen ~220 kg vs expert estimates of 275–300 kg; Paxton (2016) argues 20 m is statistically plausible; specialist rejection of that claim was public but never published as a formal rebuttal `[SPE-09–SPE-13, SPE-23, SPE-31]`.
+**Available evidence:** Verified maximum ~12 m TL (McClain et al. 2015); expert post-mortem-relaxed maximum ~13 m; mantle-length ceiling disputed between 2.25 and 2.79 m; heaviest weighed entire specimen ~220 kg vs expert estimates of 275–300 kg; Paxton (2016) argues 20 m is statistically plausible; specialist rejection of that claim was public, but no formal published rebuttal has been located `[SPE-09–SPE-13, SPE-23, SPE-31]`.
 **Why unresolved:** The upper tail of the size distribution rests on the worst-provenance historical data (stretched, paced, second-hand); beak-based estimation carries ~40% spread; and very large females are rare in any sampling stream. Only more measured specimens can close it.
 
 ## 10. What is its real place in the sperm whale's economy — and the deep-sea food web?
@@ -56,12 +56,12 @@ The major open questions about *Architeuthis dux*, ranked by a combination of sc
 
 ## 11. Where exactly does it occur — and are the "gaps" real?
 
-**Available evidence:** A circumglobal temperate map drawn by strandings, bycatch, and predator stomachs; one Mediterranean record; near-absence from tropics and poles; eDNA already adding range (Sea of Japan, Western Australia) `[TAX-19, TAX-23, TAX-33]`.
+**Available evidence:** A circumglobal temperate map drawn by strandings, bycatch, and predator stomachs; one Mediterranean record; near-absence from tropics and poles; eDNA adding detections (seasonal presence in the Sea of Japan) and new range (Western Australia) `[TAX-19, TAX-23, TAX-27, TAX-33]`.
 **Why unresolved:** The map partly maps observers (coastal populations, fisheries, stranding networks). Tropical deep water is barely sampled by any *Architeuthis*-detecting method; absence there is currently unfalsifiable without systematic eDNA or camera surveys.
 
 ## 12. Smaller but persistent puzzles
 
-- Why were the 2006 and 2012 Ogasawara animals missing feeding tentacles? `[LIV-08]`
+- Why were the 2006 and 2012 Ogasawara animals missing or damaged in one or both feeding tentacles? `[LIV-05, LIV-08]`
 - Is cannibalism real behavior or artifact (autophagy, capture stress)? `[DIE-03, DIE-05]`
 - What do paralarvae eat, and what eats them? `[open in all domains]`
 - Can parasite life-cycles be used systematically to map predators and prey? `[DIE-34]`

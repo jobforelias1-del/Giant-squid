@@ -18,7 +18,7 @@ An honest account of how this review was conducted, what its sources can and can
 | **Verified** | 142 | Title, first author, year, venue (where indexed), and abstract-level content independently confirmed; in most cases the *specific quantitative claims* used by the dossier (e.g., 12.1% Azores diet share, 43 mitogenomes, 2,153–3,060 mm beak-estimate spread, 411–674-day beak ages, 6.4→15 °C oxygen-affinity collapse) were confirmed verbatim in indexed abstracts |
 | **Corrected** | 9 | Source real; a bibliographic detail was wrong and was fixed (see §4) |
 | **Wrong attribution** | 2 | The cited fact/paper belongs to a different author or paper; re-attributed (see §4) |
-| **Could not verify** | 43 | No online confirmation possible from this environment — overwhelmingly network-policy failures, not negative findings (see §3); each item retains indirect corroboration and none showed red flags |
+| **Could not verify** | 43 | No online confirmation possible from this environment — overwhelmingly network-policy failures, not negative findings (see §3); nearly all retain indirect corroboration; two carry residual flags — a possible wrong attribution on a 2013 Slate byline (treated as reportage, not testimony) and the December 2025 feeding video, which has no independent trace beyond its primary post |
 | **Fabricated / not found** | **0** | No invented sources were detected |
 
 ## 3. The network constraint (material limitation)
@@ -26,7 +26,7 @@ An honest account of how this review was conducted, what its sources can and can
 The execution environment's egress proxy **blocked essentially all direct web fetches** — Crossref's API, doi.org, publisher sites (Springer, Wiley, Elsevier, Cambridge, Royal Society, Nature), PubMed Central, archive.org, Wikipedia, museum collection pages (NHM, NHMD, Te Papa, Smithsonian), and agency sites (NOAA, NIWA) — and the general web-search budget was exhausted partway through the project. Consequences, stated plainly:
 
 - **No DOI was dereferenced live.** DOIs given in the deliverables were confirmed against the scholarly index's bibliographic records and standard citation patterns, and are marked in `annotated-bibliography.md` (✱) as format-checked but not resolved end-to-end.
-- **Peer-reviewed sources were verified at abstract level**, not by full-text reading. Facts that live only in paper bodies (e.g., the 5.5-m tentacle figure in Kubodera & Mori 2005; the ~4,943-g pilot-whale squid; the ~220-cm sleeper-shark mantle estimate) rest on the research pass's search-snippet evidence and are flagged in the ledger's limitations column.
+- **Peer-reviewed sources were verified at abstract level**, not by full-text reading. Facts that live only in paper bodies (e.g., the 5.5-m tentacle figure in Kubodera & Mori 2005; the ~4,943-g pilot-whale squid; the ~220-cm sleeper-shark mantle estimate) rest on the research pass's search-snippet evidence and are flagged in the research notes (and, where applicable, in the ledger's limitations column).
 - **Web-only sources (agency pages, museum pages, press) are the bulk of the 43 unverifiable items.** For nearly all, the underlying events are well-documented history corroborated by verified peer-reviewed companions (e.g., the NOAA 2019 expedition pages vs the verified Robinson et al. 2021).
 
 ## 4. Corrections made during verification
@@ -37,7 +37,7 @@ Errors caught by the adversarial pass and **fixed throughout the deliverables**:
 2. **Albatross scavenging fractions (wrong attribution).** The "~30% by number / ~85% by mass scavenged" estimate belongs to **Xavier, Croxall & Reid (2003, *Marine Biology* 142:611–622)**, not Rodhouse et al. (1987), which contains no such figures.
 3. **Clarke & MacLeod (1982) venue.** Published in ***Memoirs of the National Museum of Victoria* 43:25–42**, not JMBA.
 4. **Sea of Japan influx paper.** Indexed with **Kubodera as first author, print year 2018** (online 2016); co-author lists circulating as "Wada et al. 2016" and even "Kubodera, Koyama & Mori" could not be itemized — cited as "Kubodera et al. (2018)".
-5. **Author-list completions:** O'Shea confirmed as first author of the 2022 paralarva description; T. Wada of the 2020 eDNA paper; G. Nester of the 2026 canyon-eDNA paper; M.A.C. Roeleveld of the 2002 tentacle-morphology paper; P. Pérez-Gándaras & Guerra's 1978 diet paper resolved to *Investigación Pesquera* 42(2):401–414.
+5. **Author-list completions:** O'Shea confirmed as first author of the 2022 paralarva description; T. Wada of the 2020 eDNA paper; G. Nester of the 2026 canyon-eDNA paper; M.A.C. Roeleveld of the 2002 tentacle-morphology paper; G. Pérez-Gándaras & Guerra's 1978 diet paper resolved to *Investigación Pesquera* 42(2):401–414.
 6. **Spelling/venue details:** Solé et al. 2017 co-author is Fortuño (not "Fontuno"); Hoving et al. 2006 title includes "…from the Fladen Ground in the northern North Sea"; Leite et al. 2016 first author is Luciana Leite (initials "T.S." doubtful).
 7. **Priority framing.** "First film in natural habitat" is credited in broadcasts to the 2012 submersible; the record shows the remote Medusa platform obtained deep footage days earlier on the same expedition. The dossier states both.
 
@@ -45,8 +45,8 @@ Errors caught by the adversarial pass and **fixed throughout the deliverables**:
 
 Flagged as possibly garbled in indexed copies, or resting on unverifiable prior knowledge, and therefore *withheld* from the deliverables pending sight of the originals:
 
-- The exact statolith **day-range in Lordan et al. (1998)** (indexed copies render it inconsistently); the qualitative conclusion (sub-annual ages, 2.96–4.25%/day growth) is confirmed.
-- The exact **model-age range in Landman et al. (2004)** beyond the abstract-confirmed "≤14 years".
+- The exact statolith **day-range in Lordan et al. (1998)** (garbled in indexed copies — a nonsensical descending range in every retrieval); the qualitative conclusion (sub-annual ages, 2.96–4.25%/day growth) is confirmed.
+- The exact **model-age range in Landman et al. (2004)** beyond the "≤14 years" upper bound (itself from an abstract rendering, corroborated by independent secondary discussions).
 - The widely repeated mitogenome diversity value **π = 0.00035** and the "44× lower than *Dosidicus*" comparison (the verified abstract says only "exceptionally low"; the number's visible trail runs partly through AI-generated tertiary sources).
 - The commonly quoted **~10.5 m / 184 kg** measurements of R. Clarke's 1955 whale-stomach squid.
 - **Heuvelmans' specific size claims** ("60–90 ft") — his books could not be paged; the claims are characterized generically.
@@ -69,7 +69,7 @@ Recorded as disagreements, never averaged (full detail in the dossier and ledger
 | Maximum mantle length | 2.25 m · ~2.75 m · 2.79 m · 2.4 m (different reliability filters) | unresolved |
 | Maximum mass | ~220 kg weighed · 275 kg · 300 kg estimates · "nearly a ton" (institutional web page, echoing discredited estimates) | >300 kg unsupported |
 | Lifespan | <1 y · ~1 y · 1.1–3 y · 3–6 y · ≤14 y | unresolved; increment periodicity never validated |
-| Depth | 630–950 m observed · 400–600 m trawled · 125–250 m isotope average · "300–1,000 m" textbook envelope | unresolved; no telemetry |
+| Depth | 630–900 m and 759 m directly observed (platform squid encounters 557–950 m, not all *Architeuthis*-specific) · 400–600 m trawled · 125–250 m isotope average · "300–1,000 m" textbook envelope | unresolved; no telemetry |
 | Sperm whale diet share | 0% → 12.1% → 26.5% → 82.2% by region/individual and metric | genuinely heterogeneous |
 | Global specimen count | ~339 (implied 2004) · 677 (2011) · "nearly 500 since 1547" (attributed to Sweeney & Roper) · 836 (2026, weak venue) | order of magnitude: hundreds |
 | NE Atlantic share | 115 specimens = 33.9% (Guerra & González 2004) vs regional tallies in Guerra et al. 2011 (e.g., 152 for N Spain alone) | likely different dates/definitions; not forced into consensus |

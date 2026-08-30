@@ -14,7 +14,7 @@ Ledger IDs in brackets point to `evidence-ledger.csv`.
 ## 1. Extraordinary maximum size
 
 **"Giant squid reach ~18 m / 57–60 ft."** — **DISPUTED, leaning UNSUPPORTED as stated.**
-The textbook figure descends from two 19th-century Newfoundland/New Zealand reports, not from any scientifically measured specimen `[MYT-17]`. The **Thimble Tickle 1878** "55-ft" animal rests entirely on a second-hand fishermen's report relayed in a letter by Rev. Moses Harvey; nothing was measured by a scientist or preserved, yet Guinness listed it as the record for over a century `[SPE-07, MYT-15]` — **UNSUPPORTED** as a measurement. The **Lyall Bay 1887** 55 ft 2 in was paced, not taped, on an animal whose mantle was only ~1.8 m; modern authorities attribute the total to post-mortem tentacular stretching `[SPE-14, MYT-16]` — **DISPUTED** (specimen real, number not). The verified ceiling: 12 m total length (McClain et al. 2015), ~13 m as the expert post-mortem-relaxed maximum `[SPE-09, SPE-10]`.
+The textbook figure descends from two 19th-century Newfoundland/New Zealand reports, not from any scientifically measured specimen `[MYT-17]`. The **Thimble Tickle 1878** "55-ft" animal rests entirely on a second-hand fishermen's report relayed in a letter by Rev. Moses Harvey; nothing was measured by a scientist or preserved, yet the figure was repeated for over a century — including by Guinness — as the record `[SPE-07, MYT-15]` — **DISPUTED-to-UNSUPPORTED** as a measurement (Paxton 2016 argues such totals are not physically implausible; the disagreement is real). The **Lyall Bay 1887** 55 ft 2 in was paced, not taped, on an animal whose mantle was only ~1.8 m; modern authorities attribute the total to post-mortem tentacular stretching `[SPE-14, MYT-16]` — **DISPUTED** (specimen real, number not). The verified ceiling: 12 m total length (McClain et al. 2015), ~13 m as the expert post-mortem-relaxed maximum `[SPE-09, SPE-10]`.
 
 **"20 m is statistically plausible" (Paxton 2016).** — **DISPUTED.** A peer-reviewed minority position built by extrapolating the historical dataset; publicly rejected by specialists (O'Shea: at most ~15 m "at the absolute, most generous upper end"), but no formal journal rebuttal was located `[SPE-12, SPE-13, MYT-18]`.
 
@@ -32,13 +32,13 @@ The textbook figure descends from two 19th-century Newfoundland/New Zealand repo
 
 **USS *Stein* sonar dome damaged by a clawed squid, 1976.** — **PLAUSIBLE BUT UNCONFIRMED** that *some* squid damaged the dome; **UNSUPPORTED** as evidence about *Architeuthis*. Primary Navy documentation is untraced (this review found none), and the claimed "claw sheaths" would, taken at face value, indicate a hook-bearing family — giant squid have toothed sucker rings, no hooks `[MYT-26, DIE-33]`.
 
-**The 1873 Conception Bay "attack" on the Piccots' dory.** — **SUPPORTED at the core, DISPUTED in the telling.** A severed tentacular arm from that encounter was contemporaneously preserved at St. John's and examined by Verrill (1874) — a real live squid touched a real boat `[MYT-11]`. The heroics, dialogue, and tentacle-length arithmetic descend from Moses Harvey's promotional retellings `[MYT-12]`.
+**The 1873 Conception Bay "attack" on the Piccots' dory.** — **SUPPORTED as to the relic, DISPUTED in the telling.** A severed tentacular arm from that encounter was contemporaneously preserved at St. John's and examined by Verrill (1874); that the live squid actually contacted the boat is plausible but rests on the same encounter account `[MYT-11, MYT-12]`. The heroics, dialogue, and tentacle-length arithmetic descend from Moses Harvey's promotional retellings `[MYT-12]`.
 
 **General verdict:** there is **no verified case of a giant squid attacking a vessel or a person** in the entire record. The *Alecton* (1861) is the reverse — humans attacking a squid `[MYT-09]`.
 
 ## 3. Sea-monster reports
 
-**"The kraken of Norse legend was the giant squid."** — **DISPUTED.** Zoological reviews assert it (Salvador & Tomotani 2014); medieval-studies and history-of-science scholarship roots the pre-1750s tradition — the island-like, belching hafgufa of *Konungs skuggsjá* and *Örvar-Odds saga* — in whales and bestiary lore, tracing it to the 2nd-century *Physiologus* (McCarthy et al. 2023; Latva 2023). The kraken label was attached to *Architeuthis* retrospectively after Steenstrup `[MYT-03–MYT-05, MYT-30]`. Pontoppidan's mile-wide kraken (1755) describes no squid `[MYT-07]`.
+**"The kraken of Norse legend was the giant squid."** — **DISPUTED.** Zoological reviews assert it (Salvador & Tomotani 2014); medieval-studies and history-of-science scholarship roots the pre-1750s tradition — the island-like, belching hafgufa of *Konungs skuggsjá* and *Örvar-Odds saga* — in whales and bestiary lore, tracing it to the 2nd-century *Physiologus* (McCarthy et al. 2023; Latva 2023). The kraken label was attached to *Architeuthis* retrospectively after Steenstrup `[MYT-03–MYT-05, MYT-30]`. Pontoppidan's kraken (1755) — its back "an English mile and a half in circumference" — describes no squid `[MYT-07]`.
 
 **Egede's 1734 Greenland "most dreadful monster" was a giant squid.** — **UNSUPPORTED** (the squid reading). Modern peer-reviewed analysis concludes an unfamiliar cetacean (Paxton et al. 2005), with an Arctic-mirage variant also argued (Magin 2023); the giant-squid identification (Henry Lee, 1883) is dead in the modern literature `[MYT-06]`.
 
@@ -50,7 +50,7 @@ The textbook figure descends from two 19th-century Newfoundland/New Zealand repo
 
 ## 4. Dramatic whale battles
 
-**"Sperm whales and giant squid fight titanic battles at the surface."** — **UNSUPPORTED.** The genre descends from whaler anecdote, canonically Frank Bullen's *Cruise of the Cachalot* (1898), uncorroborated by any specimen, photograph, or instrument record `[SWH-14]`. What is **SUPPORTED**: sperm whales eat giant squid (beaks and near-intact bodies in stomachs worldwide) `[SWH-01]`, and squid leave sucker scars on whales `[SWH-11]` — predation with resistance, at depth. **No sperm whale has ever been observed or filmed capturing a giant squid** `[SWH-13]`, tag data place capture attempts deep on foraging dives `[SWH-20]`, and there is no documented case of a squid killing or seriously injuring a whale `[SWH-19]`. Whales vomiting large squid remains when harpooned likely seeded the surface-battle stories `[SWH-14]`.
+**"Sperm whales and giant squid fight titanic battles at the surface."** — **UNSUPPORTED.** The genre descends from whaler anecdote, canonically Frank Bullen's *Cruise of the Cachalot* (1898), uncorroborated by any specimen, photograph, or instrument record `[SWH-14]`. What is **SUPPORTED**: sperm whales eat giant squid (beaks and flesh remains in stomachs across many ocean regions, with near-intact cephalopod material also recovered) `[SWH-01, SWH-09]`, and squid leave sucker scars on whales `[SWH-11]` — predation with resistance, at depth. **No sperm whale has ever been observed or filmed capturing a giant squid** `[SWH-13]`, tag data place capture attempts deep on foraging dives `[SWH-20]`, and there is no documented case of a squid killing or seriously injuring a whale `[SWH-19]`. Whales vomiting large squid remains when harpooned likely seeded the surface-battle stories `[SWH-14]`.
 
 **"The giant squid is the sperm whale's main food."** — **DISPUTED/misleading as stated.** By number it is a minor item nearly everywhere; by estimated mass it ranges from 0% (North Sea, Mediterranean strandings) through 12.1% (Azores) and 26.5% (Hawaii) to 82.2% in one outlier whale. Any single-number answer misrepresents the record `[SWH-02–SWH-08]`.
 
@@ -62,7 +62,7 @@ The textbook figure descends from two 19th-century Newfoundland/New Zealand repo
 
 **"Giant squid eyes are the largest eyes ever, evolved to spot whales."** — Eye size ~27 cm: **SUPPORTED** (photographed specimen; among the largest known, shared with the colossal squid) `[DIE-30]`. The whale-detection *purpose*: **DISPUTED** (Nilsson et al. 2012 vs Schmitz et al. 2013, rebuttal 2013; unresolved) `[DIE-31, DIE-32]`.
 
-**"Giant squid are cannibals."** — **PLAUSIBLE BUT UNCONFIRMED.** Conspecific tissue found twice in gut contents, with DNA support — but the original authors themselves weigh autophagy and capture-stress alternatives, and no cannibalistic act has been observed `[DIE-02–DIE-05]`.
+**"Giant squid are cannibals."** — **PLAUSIBLE BUT UNCONFIRMED.** Conspecific tissue reported in two studies of New Zealand gut material (which may concern related specimens), with DNA support — but the original authors themselves weigh autophagy and capture-stress alternatives, and no cannibalistic act has been observed `[DIE-02, DIE-03, DIE-05]`.
 
 **"They live 5 years" / "they live 1 year" (stated as fact).** — **DISPUTED.** Published peer-reviewed estimates span <1 to ≤14 years; the daily-increment assumption underlying the short estimates has never been validated for this species `[REP-20–REP-26]`.
 
@@ -103,3 +103,10 @@ The textbook figure descends from two 19th-century Newfoundland/New Zealand repo
 | Cannibalism | PLAUSIBLE BUT UNCONFIRMED |
 | Any specific lifespan figure | DISPUTED |
 | Filmed egg masses | UNSUPPORTED |
+| Paxton 2016 (20 m statistically plausible) | DISPUTED |
+| Montfort's colossal octopus | UNSUPPORTED |
+| Sea-serpent reports = giant squid (both directions) | DISPUTED case-by-case |
+| Aristotle/Pliny described *Architeuthis* | UNSUPPORTED as species claims |
+| "First film in natural habitat = the 2013-broadcast submersible footage" | DISPUTED in detail (Medusa first by days) |
+| "World-first scuba footage, 2023" | DISPUTED (2015 Toyama dive precedes) |
+| December 2025 natural-feeding video | PLAUSIBLE BUT UNCONFIRMED |
